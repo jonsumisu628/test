@@ -1,3 +1,4 @@
 from test import tests
 
-print "test"
+print "test
+print  追記"
